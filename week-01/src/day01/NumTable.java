@@ -1,6 +1,6 @@
-package numTable;
+package day01;
 
-public class Main {
+public class NumTable {
     public static void main(String[] args) {
         int num = 5;
         System.out.print(num + " ");
